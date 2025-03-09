@@ -1,0 +1,19 @@
+2025-03-09 13:24:57,484 - INFO - ETL Process Completed Successfully
+2025-03-09 13:24:57,971 - INFO - Spark Session Stopped
+2025-03-09 13:24:57,972 - INFO - Closing down clientserver connection
+2025-03-09 13:27:22,684 - INFO - Spark Session initialized successfully
+2025-03-09 13:27:22,684 - INFO - Starting ETL Process...
+2025-03-09 13:27:25,170 - INFO - Loaded CSV: /Users/E-commerce Sales Data 2024/E-commerce_venv/Data/customer_details.csv
+2025-03-09 13:27:25,511 - INFO - Loaded CSV: /Users/E-commerce Sales Data 2024/E-commerce_venv/Data/product_details.csv
+2025-03-09 13:27:25,639 - INFO - Loaded CSV: /Users/E-commerce Sales Data 2024/E-commerce_venv/Data/E-commerece_sales_data_2023.csv
+2025-03-09 13:27:26,368 - INFO - Successfully read from PostgreSQL: transactions
+2025-03-09 13:27:27,424 - INFO - Successfully written to PostgreSQL: customers
+2025-03-09 13:27:27,717 - INFO - Successfully written to PostgreSQL: products
+2025-03-09 13:27:28,050 - INFO - Successfully written to PostgreSQL: transactions
+2025-03-09 13:27:28,267 - INFO - Successfully written to PostgreSQL: interactions
+2025-03-09 13:27:28,494 - INFO - Successfully written to PostgreSQL: discounts
+2025-03-09 13:27:28,965 - INFO - Successfully written to PostgreSQL: product_categories
+2025-03-09 13:27:29,406 - INFO - Successfully written to PostgreSQL: product_variants
+2025-03-09 13:27:29,407 - INFO - ETL Process Completed Successfully
+2025-03-09 13:27:29,615 - INFO - Spark Session Stopped
+2025-03-09 13:27:29,616 - INFO - Closing down clientserver connection
